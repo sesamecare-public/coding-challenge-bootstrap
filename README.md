@@ -1,3 +1,3 @@
-# Coding Challenge Bootstrap
+Programming Challenge Bootstrap
 
-The bootstrap repository to do the coding challenge. It contains a basic Spring Boot Project based on Java 19 and some basic dependencies.
+This repository can be used to have an easier start to the Sesame Programming Challenge. A Controller, Service and a Dummy Test are already defined
