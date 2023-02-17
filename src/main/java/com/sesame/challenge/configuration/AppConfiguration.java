@@ -13,4 +13,8 @@ public class AppConfiguration {
         return Clock.systemUTC();
     }
 
+    @Bean
+    public RestTemplate restTemplate() {
+        return new RestTemplate();
+    }
 }
