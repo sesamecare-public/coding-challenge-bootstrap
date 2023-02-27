@@ -13,7 +13,7 @@ import java.util.List;
 @RequiredArgsConstructor
 public class SesameAPIClient {
 
-    public static final String SESAME_PROVIDERS_API = "https://exposed.dev.sesamecare.com/programming-challenge/v1/providers";
+    public static final String SESAME_PROVIDERS_API = "todo";
 
     private final RestTemplate restTemplate;
 
